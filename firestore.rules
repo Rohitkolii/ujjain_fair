@@ -1,0 +1,26 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow anyone to write to contacts collection
+    match /contacts/{document=**} {
+      allow read: if false; // Only admins should read (you can change this)
+      allow create: if true; // Allow anyone to create (submit contact form)
+      allow update: if false;
+      allow delete: if false;
+    }
+    
+    // Allow anyone to write to enquiries collection
+    match /enquiries/{document=**} {
+      allow read: if false; // Only admins should read (you can change this)
+      allow create: if true; // Allow anyone to create (submit enquiry form)
+      allow update: if false;
+      allow delete: if false;
+    }
+    
+    // Deny all other access by default
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
+
