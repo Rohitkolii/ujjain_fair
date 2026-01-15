@@ -233,7 +233,7 @@
 //                   <p className="text-muted-foreground">
 //                     Lal Parade Ground
 //                     <br />
-//                     Bhopal, Madhya Pradesh 462001
+//                     Ujjain, Madhya Pradesh 462001
 //                     <br />
 //                     India
 //                   </p>
@@ -418,7 +418,7 @@ export default function ContactSection() {
                 title: "Address",
                 lines: [
                   "Lal Parade Ground",
-                  "Bhopal, Madhya Pradesh",
+                  "Ujjain, Madhya Pradesh",
                   "India",
                 ],
               },

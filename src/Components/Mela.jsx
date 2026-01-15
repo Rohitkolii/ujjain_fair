@@ -139,8 +139,8 @@ export default function MelaSection() {
     <section className="relative py-24 px-4 overflow-hidden bg-muted/40">
 
       {/* 🌿 Subtle background texture */}
-      <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(34,197,94,0.08),transparent_40%)]"></div>
-      <div className="absolute inset-0 bg-[radial-gradient(circle_at_80%_80%,rgba(22,163,74,0.06),transparent_40%)]"></div>
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_30%,rgba(255,212,29,0.18),transparent_40%)]" />
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_80%_70%,rgba(255,212,29,0.14),transparent_45%)]" />
 
       <div className="relative max-w-7xl mx-auto">
 

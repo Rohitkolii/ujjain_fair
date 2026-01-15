@@ -18,13 +18,13 @@ export default function Hero({ onJoinClick, onContactClick }) {
             Welcome to
           </h1>
           <h2 className="font-heading text-3xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
-            International Herbal Fair 2025
+            International Herbal Fair 2026
           </h2>
           <p className="text-xl md:text-xl text-white/95 mb-8 font-medium">
             "Prosperous Forest — Happy People"
           </p>
-          <p className="mb-2 text-white/95 font-light">17th to 23rd December 2025</p>
-          <p className="mb-8 text-white/95 font-light">Lal Parade Ground, Jahangirabad, Bhopal (Madhya Pradesh)</p>
+          <p className="mb-2 text-white/95 font-light">17th to 23rd December 2026</p>
+          <p className="mb-8 text-white/95 font-light">Lal Parade Ground, Jahangirabad, Ujjain (Madhya Pradesh)</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Button
               size="lg"

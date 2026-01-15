@@ -21,7 +21,7 @@ export default function Objectives() {
       <div className="max-w-7xl mx-auto px-4 py-20">
         <div data-aos="fade-up" className="text-left tex-primary/95 space-y-6 text-sm md:text-base leading-relaxed bg-black/5 p-6 rounded-lg">
           <h1 className="font-semibold text-2xl text-center pb-5">
-            Objectives of International Herbal Fair (Van Mela) 2025 Bhopal
+            Objectives of International Herbal Fair (Van Mela) 2026 Ujjain
           </h1>
           <h3 className="font-semibold text-lg">
             Promotion of Minor Forest Produce (MFP):
@@ -164,10 +164,10 @@ export default function Objectives() {
             11th International Herbal Fair
           </p>
           <p className="text-xl font-semibold text-foreground mb-2">
-            December 17–23, 2025
+            December 17–23, 2026
           </p>
           <p className="text-lg text-muted-foreground">
-            Lal Parade Ground, Bhopal
+            Lal Parade Ground, Ujjain
           </p>
           <p className="text-lg font-medium text-primary mt-6 italic">
             "When forests prosper… people prosper… and happiness grows."

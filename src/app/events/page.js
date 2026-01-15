@@ -27,7 +27,7 @@ export default function Events() {
   {
     id: "inaugural",
     title: "Inaugural ceremony",
-    date: "December 17, 2025",
+    date: "December 17, 2026",
     venue: "Main Exhibition Hall",
     type: "featured",
     image: event[0],
@@ -37,7 +37,7 @@ export default function Events() {
   {
     id: "conference",
     title: "International Conference",
-    date: "December 19-20, 2025",
+    date: "December 19-20, 2026",
     venue: "Business Pavilion",
     type: "upcoming",
     image: event[1],
@@ -47,7 +47,7 @@ export default function Events() {
   {
     id: "meetup",
     title: "Buyer-Seller Meet",
-    date: "December 21, 2025",
+    date: "December 21, 2026",
     venue: "Innovation Pavilion",
     type: "workshops",
     image: event[2],
@@ -57,7 +57,7 @@ export default function Events() {
   {
     id: "Closing",
     title: "Closing Ceremony & Prize Distribution",
-    date: "December 23, 2025",
+    date: "December 23, 2026",
     venue: "Conference Hall A",
     type: "featured",
     image: event[3],

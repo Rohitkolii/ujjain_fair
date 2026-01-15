@@ -19,7 +19,7 @@
 //   {
 //     id: "inaugural",
 //     title: "Inaugural ceremony",
-//     date: "December 17, 2025",
+//     date: "December 17, 2026",
 //     venue: "Main Exhibition Hall",
 //     type: "featured",
 //     image: event[0],
@@ -29,7 +29,7 @@
 //   {
 //     id: "conference",
 //     title: "International Conference",
-//     date: "December 19-20, 2025",
+//     date: "December 19-20, 2026",
 //     venue: "Business Pavilion",
 //     type: "upcoming",
 //     image: event[1],
@@ -39,7 +39,7 @@
 //   {
 //     id: "meetup",
 //     title: "Buyer-Seller Meet",
-//     date: "December 21, 2025",
+//     date: "December 21, 2026",
 //     venue: "Innovation Pavilion",
 //     type: "workshops",
 //     image: event[2],
@@ -49,7 +49,7 @@
 //   {
 //     id: "Closing",
 //     title: "Closing Ceremony & Prize Distribution",
-//     date: "December 23, 2025",
+//     date: "December 23, 2026",
 //     venue: "Conference Hall A",
 //     type: "featured",
 //     image: event[3],
@@ -165,7 +165,7 @@ export default function EventsSection({ onEventClick }) {
     {
       id: "inaugural",
       title: "Inaugural Ceremony",
-      date: "December 17, 2025",
+      date: "December 17, 2026",
       venue: "Main Exhibition Hall",
       type: "featured",
       image: images[0],
@@ -175,7 +175,7 @@ export default function EventsSection({ onEventClick }) {
     {
       id: "conference",
       title: "International Conference",
-      date: "December 19–20, 2025",
+      date: "December 19–20, 2026",
       venue: "Business Pavilion",
       type: "upcoming",
       image: images[1],
@@ -185,23 +185,23 @@ export default function EventsSection({ onEventClick }) {
     {
       id: "meetup",
       title: "Buyer–Seller Meet",
-      date: "December 21, 2025",
+      date: "December 21, 2026",
       venue: "Innovation Pavilion",
       type: "workshops",
       image: images[2],
       description:
         "B2B platform to boost trade, market linkages, and collaboration.",
     },
-    {
-      id: "closing",
-      title: "Closing Ceremony & Prize Distribution",
-      date: "December 23, 2025",
-      venue: "Conference Hall A",
-      type: "featured",
-      image: images[3],
-      description:
-        "Grand conclusion with awards and acknowledgements.",
-    },
+    // {
+    //   id: "closing",
+    //   title: "Closing Ceremony & Prize Distribution",
+    //   date: "December 23, 2026",
+    //   venue: "Conference Hall A",
+    //   type: "featured",
+    //   image: images[3],
+    //   description:
+    //     "Grand conclusion with awards and acknowledgements.",
+    // },
   ];
 
   const next = () =>
@@ -215,8 +215,8 @@ export default function EventsSection({ onEventClick }) {
 
       <section className="relative py-28 px-4 overflow-hidden bg-[#f8fafc]">
         {/* Decorative background */}
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_30%,rgba(34,197,94,0.12),transparent_40%)]" />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_80%_70%,rgba(22,163,74,0.1),transparent_45%)]" />
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_30%,rgba(255,212,29,0.18),transparent_40%)]" />
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_80%_70%,rgba(255,212,29,0.14),transparent_45%)]" />
 
         <div className="relative max-w-7xl mx-auto">
           {/* Header */}

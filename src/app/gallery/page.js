@@ -34,7 +34,7 @@ export default function Gallery() {
   
 useEffect(() => {
     AOS.init({
-      duration: 1000, // animation duration
+      duration: 500, // animation duration
     });
   }, []);
 
@@ -197,7 +197,7 @@ useEffect(() => {
           </div>
 
           {/* Gallery */}
-          <div className="columns-1 md:columns-2 lg:columns-3 gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {filteredImages.map((img, idx) => (
               <div
               data-aos="zoom-in-up"

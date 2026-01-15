@@ -17,7 +17,7 @@ const page = () => {
     <div className="min-h-screen bg-gray-50">
       <Head
         title={"Mela Map"}
-        desc={"Explore, Discover, Connect – Your Guide to Van Mela 2025!"}
+        desc={"Explore, Discover, Connect – Your Guide to Van Mela 2026!"}
         bg={fairStall}
       />
 
@@ -37,10 +37,10 @@ const page = () => {
           className="md:w-1/2 w-full flex flex-col justify-center space-y-6"
         >
           <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
-            Layout of Van Mela 2025
+            Layout of Van Mela 2026
           </h2>
           <p className="text-gray-700 text-md leading-relaxed">
-            The Herbal Fair (Van Mela) in Bhopal is a large-scale event held at
+            The Herbal Fair (Van Mela) in Ujjain is a large-scale event held at
             Lal Parade Ground. It showcases a variety of herbal products, minor
             forest produce, Ayurvedic items, and other traditional forest
             products. The fair attracts vendors, producers, and visitors from

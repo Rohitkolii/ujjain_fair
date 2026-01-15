@@ -83,7 +83,7 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-5 sm:px-2 lg:px-4 py-0.5 max-sm:px-1">
         <p className="sm:hidden items-center flex flex-col">
           <span className="text-[13px] md:text-sm font-semibold text-gray-800">
-            Ujjain Fair
+            Herbal Fair
           </span>{" "}
           <span className="text-xs md:text-xs font-normal text-gray-800">
             "Prosperous Forest — Happy People"
@@ -98,23 +98,23 @@ export default function Navigation() {
             <div className="flex items-center gap-1">
               <img
                 src={logo}
-                alt="Herbal Fair 2025 Logo"
+                alt="Herbal Fair 2026 Logo"
                 className="max-sm:h-10 h-[60px] w-auto object-contain border-1"
               />
 
               {/* <img
                 src={logo3}
-                alt="Herbal Fair 2025 Logo"
+                alt="Herbal Fair 2026 Logo"
                 className="max-sm:h-10 h-[100px] w-auto object-contain"
               />
 
               <img
                 src={logo2}
-                alt="Herbal Fair 2025 Logo"
+                alt="Herbal Fair 2026 Logo"
                 className="max-sm:h-10 h-[80px] w-auto object-contain"
               /> */}
               <div className="hidden sm:block leading-tight">
-              <p className="font-semibold text-gray-800">Ujjain Fair</p>
+              <p className="font-semibold text-gray-800">Herbal Fair</p>
               <p className="text-xs text-gray-500">Prosperous Forest — Happy People</p>
             </div>
             </div>
@@ -136,7 +136,7 @@ export default function Navigation() {
             ))}
             <Link
             className="px-2 py-1 rounded-md text-[13px] font-medium hover-elevate"
-            href="/files/IHF2025.pdf" target="_blank" rel="noopener noreferrer">
+            href="/files/IHF2026.pdf" target="_blank" rel="noopener noreferrer">
               Brochure
             </Link>
 
@@ -206,7 +206,7 @@ export default function Navigation() {
 
             <Link
             className="block px-4 py-2 rounded-md hover-elevate"
-            href="/files/IHF2025.pdf" target="_blank" rel="noopener noreferrer">
+            href="/files/IHF2026.pdf" target="_blank" rel="noopener noreferrer">
               Brochure
             </Link>
 

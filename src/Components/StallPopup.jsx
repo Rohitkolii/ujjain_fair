@@ -37,7 +37,7 @@ export default function StallPopup({
           </div>
 
           <DialogTitle className="text-xl font-bold">
-            Ujjain Fair 2025
+            Herbal Fair 2026
           </DialogTitle>
           <p className="mt-1 text-sm opacity-90">
             Prosperous Forest — Happy People
@@ -51,14 +51,14 @@ export default function StallPopup({
           </p>
 
           <p className="text-sm text-muted-foreground max-w-sm mx-auto">
-            Be part of the upcoming Ujjain Fair and showcase your products,
+            Be part of the upcoming Herbal Fair and showcase your products,
             services, and culture to thousands of visitors.
           </p>
 
           <div className="text-sm font-medium text-gray-700">
-            📅 <span className="font-semibold">17 – 23 December 2025</span>
+            📅 <span className="font-semibold">17 – 23 December 2026</span>
             <br />
-            📍 Lal Parade Ground, Bhopal
+            📍 Lal Parade Ground, Ujjain
           </div>
 
           {/* ================= ACTIONS ================= */}

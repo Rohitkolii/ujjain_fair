@@ -17,12 +17,12 @@ export default function Header({ onJoinClick, onContactClick }) {
         <div>
           {/* Badge */}
           <span className="inline-flex items-center gap-2 px-5 py-2 rounded-full bg-primary/20 text-primary/70 text-sm font-semibold mb-6">
-            🌿 17–23 December 2025 • Bhopal
+            🌿 17–23 December 2026 • Ujjain
           </span>
 
           <h1 className="font-heading text-4xl md:text-5xl xl:text-6xl font-extrabold text-gray-900 leading-tight mb-6">
             International <br />
-            <span className="text-primary">Herbal Fair 2025</span>
+            <span className="text-primary">Herbal Fair 2026</span>
           </h1>
 
           <p className="text-lg md:text-xl text-gray-600 max-w-xl mb-8">
@@ -70,7 +70,7 @@ export default function Header({ onJoinClick, onContactClick }) {
               </h3>
 
               <p className="text-sm text-gray-600 leading-relaxed">
-                Lal Parade Ground, Jahangirabad, Bhopal <br />
+                Lal Parade Ground, Jahangirabad, Ujjain <br />
                 Madhya Pradesh, India
               </p>
 
@@ -106,7 +106,7 @@ export default function Header({ onJoinClick, onContactClick }) {
 //           </p>
 
 //           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 leading-snug mb-4">
-//             International Herbal Fair 2025
+//             International Herbal Fair 2026
 //           </h1>
 
 //           <p className="text-lg text-gray-700 mb-6 max-w-2xl">
@@ -120,10 +120,10 @@ export default function Header({ onJoinClick, onContactClick }) {
 //               <strong>Theme:</strong> Prosperous Forest — Happy People
 //             </p>
 //             <p className="text-sm text-gray-800">
-//               <strong>Date:</strong> 17th – 23rd December 2025
+//               <strong>Date:</strong> 17th – 23rd December 2026
 //             </p>
 //             <p className="text-sm text-gray-800">
-//               <strong>Venue:</strong> Lal Parade Ground, Jahangirabad, Bhopal (M.P.)
+//               <strong>Venue:</strong> Lal Parade Ground, Jahangirabad, Ujjain (M.P.)
 //             </p>
 //           </div>
 

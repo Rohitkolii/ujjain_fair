@@ -28,7 +28,7 @@ export default function StallEnquiryModal({ open, onOpenChange }) {
         <DialogHeader>
           <DialogTitle className="text-2xl font-bold">Book Your Stall</DialogTitle>
           <DialogDescription>
-            Fill in the details below to reserve your stall at the International Herbal Fair 2025.
+            Fill in the details below to reserve your stall at the International Herbal Fair 2026.
           </DialogDescription>
         </DialogHeader>
         <form onSubmit={handleSubmit} className="space-y-4 mt-4">

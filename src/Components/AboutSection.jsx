@@ -21,11 +21,11 @@
 //             </h2>
             
 //             <p className="text-lg text-muted-foreground leading-relaxed text-justify">
-//               International Herbal Fair is an annual feature of Bhopal for over a decade now. Initially, began as a National event. This annual fair was up-scaled as an International event from 2011 with a mandate to create a platform for showcasing the Minor Forest Produce (MFP) diversity and potential of various states of India and neighbouring countries to provide robust marketing opportunities with strong backwards-forward linkages for MFP collectors, traders and manufacturers involved in processing of MFP.
+//               International Herbal Fair is an annual feature of Ujjain for over a decade now. Initially, began as a National event. This annual fair was up-scaled as an International event from 2011 with a mandate to create a platform for showcasing the Minor Forest Produce (MFP) diversity and potential of various states of India and neighbouring countries to provide robust marketing opportunities with strong backwards-forward linkages for MFP collectors, traders and manufacturers involved in processing of MFP.
 //             </p>
 
 //             <p className="text-lg text-muted-foreground leading-relaxed text-justify">
-//               The International Herbal Fair 2025 invites you to explore the vast
+//               The International Herbal Fair 2026 invites you to explore the vast
 //               world of herbal products, forest produce, natural wellness,
 //               medicinal plants, and green enterprise - all under one roof.
 //             </p>
@@ -36,7 +36,7 @@
 //                 <h4 className="font-heading font-semibold text-2xl text-primary mb-1">
 //                   17–23
 //                 </h4>
-//                 <p className="text-sm text-muted-foreground">December 2025</p>
+//                 <p className="text-sm text-muted-foreground">December 2026</p>
 //               </div>
 //               <div className="p-4 bg-card rounded-lg border border-card-border">
 //                 <h4 className="font-heading font-semibold text-2xl text-primary mb-1">
@@ -80,7 +80,7 @@ export default function AboutSection() {
           <div data-aos="fade-up" className="space-y-6">
             <div className="inline-flex items-center px-4 py-2 bg-primary/10 rounded-full">
               <span className="text-primary font-semibold text-sm">
-                About ujjain Fair
+                About Herbal Fair
               </span>
             </div>
 
@@ -90,7 +90,7 @@ export default function AboutSection() {
             </h2>
 
             <p className="text-base md:text-lg text-muted-foreground leading-relaxed text-justify">
-              International Herbal Fair is an annual feature of Bhopal for over a
+              International Herbal Fair is an annual feature of Ujjain for over a
               decade. Initially begun as a national event, it was up-scaled into
               an international platform in 2011 to showcase Minor Forest Produce
               (MFP) diversity and create robust marketing opportunities for
@@ -98,7 +98,7 @@ export default function AboutSection() {
             </p>
 
             <p className="text-base md:text-lg text-muted-foreground leading-relaxed text-justify">
-              The International Herbal Fair 2025 invites you to explore herbal
+              The International Herbal Fair 2026 invites you to explore herbal
               products, forest produce, natural wellness, medicinal plants, and
               green enterprises — all under one roof.
             </p>
@@ -110,7 +110,7 @@ export default function AboutSection() {
                   17–23
                 </h4>
                 <p className="text-sm text-muted-foreground">
-                  December 2025
+                  December 2026
                 </p>
               </div>
 
